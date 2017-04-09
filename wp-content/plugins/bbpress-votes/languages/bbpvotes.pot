@@ -1,0 +1,303 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress Votes 1.0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bbpress-votes\n"
+"POT-Creation-Date: 2016-09-13 09:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: bbpress-votes.php:196 bbpvotes-template.php:27 bbpvotes-template.php:95
+msgid "Vote up"
+msgstr ""
+
+#: bbpress-votes.php:197 bbpvotes-template.php:148
+msgid "Vote down"
+msgstr ""
+
+#: bbpress-votes.php:198 bbpvotes-template.php:123
+msgid "You voted up"
+msgstr ""
+
+#: bbpress-votes.php:199 bbpvotes-template.php:175
+msgid "You voted down"
+msgstr ""
+
+#: bbpress-votes.php:247
+msgid "Karma:"
+msgstr ""
+
+#: bbpress-votes.php:260
+msgid "Score:"
+msgstr ""
+
+#: bbpress-votes.php:275
+msgid "Sort topics by votes"
+msgstr ""
+
+#: bbpress-votes.php:277
+msgid "Sort topics by date"
+msgstr ""
+
+#: bbpress-votes.php:293 bbpvotes-buddypress.php:12
+msgid "Vote is not a boolean"
+msgstr ""
+
+#: bbpress-votes.php:300
+msgid "You don't have the required capability to vote"
+msgstr ""
+
+#: bbpress-votes.php:308
+msgid "You cannot vote for your own post"
+msgstr ""
+
+#: bbpress-votes.php:349
+msgid "You don't have the required capability to unvote"
+msgstr ""
+
+#: bbpress-votes.php:358
+msgid "Error while unvoting for this post"
+msgstr ""
+
+#: bbpress-votes.php:364
+msgid "You have already voted for this post"
+msgstr ""
+
+#: bbpress-votes.php:390
+msgid "Error while voting for this post"
+msgstr ""
+
+#: bbpvotes-admin.php:75 bbpvotes-admin.php:103
+msgid "Score"
+msgstr ""
+
+#: bbpvotes-ajax.php:34 bbpvotes-template.php:37
+msgid "Score: %1$s"
+msgstr ""
+
+#: bbpvotes-ajax.php:35 bbpvotes-template.php:38
+msgid "Votes count: %1$s"
+msgstr ""
+
+#: bbpvotes-buddypress.php:5
+msgid "New vote up"
+msgstr ""
+
+#: bbpvotes-buddypress.php:6
+msgid "New vote down"
+msgstr ""
+
+#: bbpvotes-functions.php:92
+msgctxt "billion unit"
+msgid "B"
+msgstr ""
+
+#: bbpvotes-functions.php:93
+msgctxt "million unit"
+msgid "M"
+msgstr ""
+
+#: bbpvotes-functions.php:94
+msgctxt "thousand unit"
+msgid "K"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: bbpvotes-settings.php:18 bbpvotes-settings.php:19
+msgid "bbPress Votes"
+msgstr ""
+
+#. ID
+#: bbpvotes-settings.php:91
+msgid "General"
+msgstr ""
+
+#: bbpvotes-settings.php:98
+msgid "Post types enabled"
+msgstr ""
+
+#: bbpvotes-settings.php:106
+msgid "Enable downvoting"
+msgstr ""
+
+#: bbpvotes-settings.php:114
+msgid "Enable unvoting"
+msgstr ""
+
+#. ID
+#: bbpvotes-settings.php:122
+msgid "Vote Log"
+msgstr ""
+
+#: bbpvotes-settings.php:129
+msgid "Embed vote log"
+msgstr ""
+
+#: bbpvotes-settings.php:137
+msgid "Anonymous voting"
+msgstr ""
+
+#. ID
+#: bbpvotes-settings.php:145
+msgid "Display"
+msgstr ""
+
+#: bbpvotes-settings.php:152
+msgid "Units"
+msgstr ""
+
+#. ID
+#: bbpvotes-settings.php:160
+msgid "System"
+msgstr ""
+
+#: bbpvotes-settings.php:167
+msgid "Cache karma"
+msgstr ""
+
+#: bbpvotes-settings.php:175
+msgid "Rebuild scores"
+msgstr ""
+
+#: bbpvotes-settings.php:183
+msgid "Reset options"
+msgstr ""
+
+#: bbpvotes-settings.php:225
+msgid "Allow users to vote down"
+msgstr ""
+
+#: bbpvotes-settings.php:236
+msgid "Allow users to cancel their vote"
+msgstr ""
+
+#: bbpvotes-settings.php:251
+msgid "Display the list of voters under the post"
+msgstr ""
+
+#: bbpvotes-settings.php:262
+msgid "Hide voters identity from the vote log"
+msgstr ""
+
+#: bbpvotes-settings.php:278
+msgid "singular:"
+msgstr ""
+
+#: bbpvotes-settings.php:282 bbpvotes-settings.php:291
+msgid "Where %s will be replaced by a number"
+msgstr ""
+
+#: bbpvotes-settings.php:287
+msgid "plural:"
+msgstr ""
+
+#: bbpvotes-settings.php:310
+msgid "minutes"
+msgstr ""
+
+#: bbpvotes-settings.php:311
+msgid "How long should we cache karma for users ?"
+msgstr ""
+
+#. Option name
+#: bbpvotes-settings.php:319
+msgid "Rebuild all scores"
+msgstr ""
+
+#: bbpvotes-settings.php:320
+msgid "This could be slow to compute"
+msgstr ""
+
+#. Option name
+#: bbpvotes-settings.php:328
+msgid "Reset options to their default values."
+msgstr ""
+
+#: bbpvotes-settings.php:335
+msgid "bbPress Votes Settings"
+msgstr ""
+
+#: bbpvotes-template.php:114
+msgid "This topic is useful and clear"
+msgstr ""
+
+#: bbpvotes-template.php:117
+msgid "This reply is useful"
+msgstr ""
+
+#: bbpvotes-template.php:124
+msgid "You have voted up for this post"
+msgstr ""
+
+#: bbpvotes-template.php:127 bbpvotes-template.php:178
+msgid "Click to remove your vote"
+msgstr ""
+
+#: bbpvotes-template.php:166
+msgid "This topic it is unclear or not useful"
+msgstr ""
+
+#: bbpvotes-template.php:169
+msgid "This reply answer is not useful"
+msgstr ""
+
+#: bbpvotes-template.php:176
+msgid "You have voted down for this post"
+msgstr ""
+
+#: bbpvotes-template.php:198
+msgid "Unvote"
+msgstr ""
+
+#: bbpvotes-template.php:215
+msgid "Remove my vote"
+msgstr ""
+
+#: bbpvotes-template.php:219
+msgid "Vote removed"
+msgstr ""
+
+#: bbpvotes-template.php:220
+msgid "Your vote for this post has been removed"
+msgstr ""
+
+#: bbpvotes-template.php:378
+msgid "%1$s voted up"
+msgstr ""
+
+#: bbpvotes-template.php:381
+msgid "%1$s voted down"
+msgstr ""
+
+#: bbpvotes-template.php:411
+msgid "and"
+msgstr ""
+
+#: bbpvotes-template.php:413
+msgid "This post has received %s."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allow users to vote up or down to topics and replies inside bbPress, just "
+"like you can on StackOverflow for example."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/bbpress-pencil-unread"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "G.Breant"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://sandbox.pencil2d.org/"
+msgstr ""

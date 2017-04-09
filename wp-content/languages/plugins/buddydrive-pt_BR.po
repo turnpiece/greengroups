@@ -1,0 +1,1373 @@
+# Translation of Plugins - BuddyDrive - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - BuddyDrive - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 09:39:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - BuddyDrive - Stable (latest release)\n"
+
+#: templates/assets/buddydrive/index.php:160
+msgid "Space used:"
+msgstr "Espaço usado:"
+
+#: templates/assets/buddydrive/index.php:140
+msgid "Privacy of this item rely on its parent folder."
+msgstr "Privacidade deste item corresponde à da pasta mãe"
+
+#: templates/assets/buddydrive/index.php:133
+#: templates/assets/buddydrive/index.php:135
+msgid "Remove from this folder"
+msgstr "Remover desta pasta"
+
+#: templates/assets/buddydrive/index.php:131
+msgid "Parent folder"
+msgstr "Pasta mãe"
+
+#: templates/assets/buddydrive/index.php:95
+msgid "Editing:"
+msgstr "Editando:"
+
+#: templates/assets/buddydrive/index.php:83
+msgid "Close sharing dialog"
+msgstr "Fechar diálogo de compartilhamento"
+
+#: templates/assets/buddydrive/index.php:79
+msgid "Use the following link to share an embed code on this site."
+msgstr "Use o seguinte link para compartilhar um código embutido neste site."
+
+#: includes/buddydrive-item-functions.php:1453
+msgid "Sorry, you are not allowed to download this file."
+msgstr "Desculpa, você não em permissão de baixar este arquivo."
+
+#: includes/buddydrive-item-functions.php:1446
+msgid "The groups the file is attached to do not match any existing groups."
+msgstr "O grupo ao qual o arquivo está anexado não corresponde a nenhum grupo existente."
+
+#: includes/buddydrive-item-functions.php:1410
+msgid "You must be added to the allowed members by the owner of the file to be able to download it"
+msgstr "Você deve ser adicionado aos membros permitidos pelo(a) dono(a) do arquivo para poder baixá-lo"
+
+#: includes/buddydrive-item-functions.php:1369
+msgid "Sorry, unknown file or unknown user."
+msgstr "Desculpa, arquivo ou usuário desconhecido."
+
+#: includes/buddydrive-item-functions.php:170
+msgid "Create folder"
+msgstr "Criar pasta"
+
+#: includes/buddydrive-item-functions.php:164
+msgid "Remove selected items from the group"
+msgstr "Remover itens selecionados do grupo"
+
+#: includes/buddydrive-item-functions.php:156
+msgid "Remove selected files from folder"
+msgstr "Remover arquivos selecionados da pasta"
+
+#: includes/buddydrive-item-functions.php:152
+msgid "Delete selected items"
+msgstr "Deletar itens selecionados"
+
+#: includes/buddydrive-item-functions.php:144
+msgid "Stats"
+msgstr "Estatísticas"
+
+#: includes/buddydrive-item-functions.php:119
+msgid "Saving your changes, please wait."
+msgstr "Salvando suas mudanças. Aguarde, por favor."
+
+#: includes/buddydrive-item-functions.php:117
+msgid "Please make sure to provide a password for your file or folder."
+msgstr "Por favor, dê uma senha ao seu arquivo ou pasta."
+
+#: includes/buddydrive-item-functions.php:116
+msgid "Please make sure to select a folder using the autocomplete field."
+msgstr "Por favor, selecione uma pasta usando o campo de autocomplete."
+
+#: includes/buddydrive-item-functions.php:115
+msgid "Please make sure to select a member using the autocomplete field."
+msgstr "Por favor, selecione um membro usando o campo de autocomplete."
+
+#: includes/buddydrive-item-functions.php:114
+msgid "Please make sure to select a group using the autocomplete field."
+msgstr "Por favor, selecione um grupo usando o campo de autocomplete."
+
+#: includes/buddydrive-item-functions.php:113
+msgid "Please make sure to provide a name for your file or folder."
+msgstr "Por favor, dê um nome ao seu arquivo ou pasta."
+
+#: includes/buddydrive-item-functions.php:111
+msgid "Order items by:"
+msgstr "Ordenar itens por:"
+
+#: includes/buddydrive-item-functions.php:110
+msgid "Define your password."
+msgstr "Defina sua senha."
+
+#: includes/buddydrive-item-functions.php:109
+msgid "Select your privacy preferences."
+msgstr "Selecione suas preferências de privacidade."
+
+#: includes/buddydrive-item-functions.php:80
+msgid "Start typing a folder name"
+msgstr "Comece a digitar o nome de uma pasta"
+
+#: includes/buddydrive-item-functions.php:77
+msgid "Add to an existing folder"
+msgstr "Adicionar em uma pasta existente"
+
+#: includes/buddydrive-item-functions.php:69
+msgid "Start typing a group name"
+msgstr "Comece a digitar o nome de um grupo"
+
+#: includes/buddydrive-item-functions.php:67
+msgid "Start typing a member name"
+msgstr "Comece a digitar o nome de um membro"
+
+#: includes/buddydrive-item-ajax.php:544
+msgid "(%d file)"
+msgid_plural "(%d files)"
+msgstr[0] "(%d arquivo)"
+msgstr[1] "(%d arquivos)"
+
+#: includes/buddydrive-item-ajax.php:536
+msgid "%d file"
+msgid_plural "%d files"
+msgstr[0] "%d arquivo"
+msgstr[1] "%d arquivos"
+
+#: includes/buddydrive-item-ajax.php:400
+msgid "No items were sent."
+msgstr "Nenhum item enviado."
+
+#: includes/buddydrive-item-ajax.php:393 includes/buddydrive-item-ajax.php:429
+#: includes/buddydrive-item-ajax.php:500
+msgid "An unexpected error occured."
+msgstr "Ocorreu um erro inesperado."
+
+#: includes/buddydrive-item-ajax.php:363
+msgid "No items were found."
+msgstr "Nenhum item encontrado."
+
+#: includes/buddydrive-item-ajax.php:322
+msgid "Item updated successfully."
+msgstr "Item enviado com sucesso."
+
+#: includes/buddydrive-item-ajax.php:317
+msgid "Something went wrong. Please try again later."
+msgstr "Algo deu errado. Por favor, tente novamente mais tarde."
+
+#: includes/buddydrive-item-ajax.php:292
+msgid "Unknown item."
+msgstr "Item desconhecido."
+
+#: includes/buddydrive-item-ajax.php:235
+msgctxt "Parent folder privacy infos"
+msgid "Files added to this folder will be accessible to the following members: %s"
+msgstr "Os arquivos adicionados à esta pasta estarão acessíveis para os seguintes membros: %s"
+
+#: includes/buddydrive-item-ajax.php:202
+msgctxt "Parent folder privacy infos"
+msgid "Files added to this folder will be accessible to members of this group: %s"
+msgstr "Os arquivos adicionados a esta pasta serão acessíveis aos membros do seguinte grupo: %s"
+
+#: includes/buddydrive-item-ajax.php:184
+msgctxt "Parent folder privacy infos"
+msgid "Files added to this folder will have the following privacy: %s"
+msgstr "Arquivos adicionados a esta pasta terão a seguinte privacidade: %s"
+
+#: includes/buddydrive-item-ajax.php:130 includes/buddydrive-item-ajax.php:284
+#: includes/buddydrive-item-ajax.php:344 includes/buddydrive-item-ajax.php:387
+#: includes/buddydrive-item-ajax.php:435 includes/buddydrive-item-ajax.php:506
+msgid "You are not allowed to perform this action."
+msgstr "Você não tem permissão para executar esta ação."
+
+#: includes/buddydrive-item-ajax.php:126 includes/buddydrive-item-ajax.php:277
+#: includes/buddydrive-item-ajax.php:337 includes/buddydrive-item-ajax.php:380
+msgid "The action was not sent correctly."
+msgstr "A ação não foi enviada corretamente."
+
+#: includes/buddydrive-item-actions.php:109
+msgid "Unauthorized access"
+msgstr "Acesso não autorizado"
+
+#: includes/buddydrive-item-actions.php:109
+msgid "You are not allowed to download this file."
+msgstr "Você não tem permissão para baixar este arquivo."
+
+#: includes/buddydrive-group-class.php:191
+msgid "You must be a member of this group to view the files."
+msgstr "Você deve ser um membro deste grupo para visualizar os arquivos."
+
+#: includes/buddydrive-functions.php:837
+msgctxt "Upgrader feedback message"
+msgid "Database version - 1 item to update"
+msgstr "Versão database - 1 item para atualizar"
+
+#: includes/buddydrive-functions.php:831
+msgctxt "Upgrader feedback message"
+msgid "Status of files and folders - %d item(s) to upgrade"
+msgstr "Status de arquivos e pastas - %d item(s) para atualizar"
+
+#: includes/buddydrive-functions.php:674
+msgctxt "file or folder status"
+msgid "Restricted to members"
+msgstr "Restrito à membros"
+
+#: includes/buddydrive-functions.php:666
+msgctxt "file or folder status"
+msgid "Restricted to a group"
+msgstr "Restrito a um grupo"
+
+#: includes/buddydrive-functions.php:658
+msgctxt "file or folder status"
+msgid "Restricted to friends"
+msgstr "Restrito à amigos"
+
+#: includes/buddydrive-functions.php:650
+msgctxt "file or folder status"
+msgid "Password protected"
+msgstr "Protegido por senha"
+
+#: includes/buddydrive-functions.php:642
+msgctxt "file or folder status"
+msgid "Private"
+msgstr "Privado"
+
+#: includes/buddydrive-functions.php:634
+msgctxt "file or folder status"
+msgid "Public"
+msgstr "Público"
+
+#: includes/buddydrive-component.php:179 includes/buddydrive-component.php:245
+msgid "Between Members"
+msgstr "Entre Membros"
+
+#: includes/admin/buddydrive-settings.php:354
+#: includes/buddydrive-functions.php:160
+msgid "Between Friends"
+msgstr "Entre Amigos"
+
+#: includes/admin/buddydrive-settings.php:44
+msgid "Default privacy for new items"
+msgstr "Privacidade padrão para novos itens"
+
+#: includes/admin/buddydrive-admin.php:858
+msgid "BuddyDrive Items"
+msgstr "Itens BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:841
+msgid "%d item(s) could not be updated"
+msgstr "%d item(s) não enviados"
+
+#: includes/admin/buddydrive-admin.php:805
+msgid "The task could not process due to an error"
+msgstr "A tarefa não pôde ser processada devido a um erro"
+
+#: includes/admin/buddydrive-admin.php:778
+msgid "BuddyDrive is almost ready, please wait for the %s following task to proceed."
+msgid_plural "BuddyDrive is almost ready, please wait for the %s following tasks to proceed."
+msgstr[0] "BuddyDrive está quase pronto. Por favor, espere pela %s tarefa em procedimento."
+msgstr[1] "BuddyDrive está quase pronto. Por favor, espere pelas %s tarefas em procedimento."
+
+#: includes/admin/buddydrive-admin.php:763
+msgid "No tasks to run. BuddyDrive is ready."
+msgstr "Nenhuma tarefa a ser realizada. BuddyDrive está pronto."
+
+#: includes/admin/buddydrive-admin.php:738
+msgid "View all items for this user"
+msgstr "Ver todos os itens deste usuário"
+
+#: includes/admin/buddydrive-admin.php:561
+msgid "In addition to disk usage, detailed statistics will be displayed to specify the distribution of the number of files by visibility."
+msgstr "Além do uso do disco, estatísticas detalhadas serão mostradas para especificar a distribuição do número de arquivos pela visibilidade."
+
+#: includes/admin/buddydrive-admin.php:560
+msgid "Detailed user statistics"
+msgstr "Estastísticas detalhadas do usuário"
+
+#: includes/admin/buddydrive-admin.php:557
+msgid "A new search field has been added to the UI so that you can easily find your old items!"
+msgstr "Um novo campo de pesquisa foi adicionado à Interface de Usuário para que você possa achar seus itens antigos facilmente!"
+
+#: includes/admin/buddydrive-admin.php:556
+msgid "Search"
+msgstr "Pesquisar"
+
+#: includes/admin/buddydrive-admin.php:553
+msgid "Administrators can now browse a specific user&#8217;s files and folders from the BuddyDrive Administration screen and add/edit or remove any file or folder."
+msgstr "Agora, administradores podem pesquisar arquivos de um um específico user&#8217;s da tela de Administração BuddyDrive e adicionar/editar ou remover qualquer arquivo ou pasta."
+
+#: includes/admin/buddydrive-admin.php:552
+msgid "Administrators privileges"
+msgstr "Privilégios de Administrador"
+
+#: includes/admin/buddydrive-admin.php:541
+msgid "The user can access to your folder? Now he can also add new files in it. The folder owner still has the last word and will be able to remove all added files."
+msgstr "O usuário pode acessar sua pasta? Agora ele também pode adicionar novos arquivos nela. O(a) dono(a) da pasta ainda tem a última palavra e poderá remover todos os arquivos adicionados."
+
+#: includes/admin/buddydrive-admin.php:540
+msgid "Real shared folders"
+msgstr "Pastas compartilhadas"
+
+#: includes/admin/buddydrive-admin.php:536
+msgid "Now you can restrict the access to your folders and files to the happy fiew you chose! Find all the files and folders the other shared with you into the new &quot;Between Members&quot; tab of your BuddyDrive."
+msgstr "Agora você pode restringir o acesso à suas pastas e arquivos aos felizardos de sua escolha! Encontre todos os arquivos e pastas que outros compartilharam com você na nova aba &quot;Entre Membros&quot; do seu BuddyDrive."
+
+#: includes/admin/buddydrive-admin.php:535
+msgid "The members of your choice!"
+msgstr "Os membros de sua escolha!"
+
+#: includes/admin/buddydrive-admin.php:532
+msgid "Sharing Improvements"
+msgstr "Melhorias de Compartilhamento"
+
+#: includes/admin/buddydrive-admin.php:525
+msgid "Tired of going back to your profile to share items within a Group? That&#8217;s history! Now you can create folders and upload new files directly from the Group."
+msgstr "Cansado(a) de voltar ao seu perfil para compartilhar itens em um Grupo? Isso é história! Agora você pode criar pastas e enviar novos arquivos diretamente no Grupo."
+
+#: includes/admin/buddydrive-admin.php:524
+msgid "Create new items directly from the Group."
+msgstr "Criar novos itens diretamente do Grupo."
+
+#: includes/admin/buddydrive-admin.php:520
+msgid "Have you ever uploaded the same file several times to share it with different groups? That was before! Now, you can attach a file to as many Group as you need."
+msgstr "Você já enviou o mesmo arquivo várias vezes para compartilhá-lo com diferentes grupos? Isso faz parte do passado! Agora, você pode anexar um arquivo para quantos Grupos precisar."
+
+#: includes/admin/buddydrive-admin.php:519
+msgid "Share with multiple Groups"
+msgstr "Compartilhar com vários Grupos"
+
+#: includes/admin/buddydrive-admin.php:516
+msgid "BuddyPress Groups integration Improvements"
+msgstr "Melhorias na integração dos Grupos BuddyPress"
+
+#: includes/admin/buddydrive-admin.php:509
+msgid "Uploading files has never been so easy! Drag, drop it&#8217;s uploaded. The default privacy does not match your need? No worries, you can edit it at any time!"
+msgstr "Enviar arquivos nunca foi tão fácil! Arraste, solte e enviado. A privacidade padrão não corresponde a sua necessidade? Sem problema, você pode editá-la à qualquer momento!"
+
+#: includes/admin/buddydrive-admin.php:508
+msgid "The UI has been completely revamped and is bringing multiple file uploads!"
+msgstr "A Interface de Usuário foi completamente renovada e traz envios múltiplos de arquivos!"
+
+#: includes/admin/buddydrive-admin.php:501
+msgid "This is the new BuddyDrive User Interface"
+msgstr "Esta é a nova Interface de Usuário do BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:364
+msgid "BuddyDrive is almost ready. It needs to update some of the datas it is using. If you have not done a database backup yet, please do it <strong>before</strong> clicking on <a href=\"%s\">this link</a>."
+msgstr "BuddyDrive está quase pronto. É necessário atualizar alguns dados utilizados nele. Se você ainda não fez o backup do banco de dados, por favor, faça isso <strong>antes</strong> clicando <a href=\"%s\">neste link</a>"
+
+#: includes/admin/buddydrive-admin.php:756
+msgid "Thank you for your patience, you can now fully enjoy BuddyDrive!"
+msgstr "Obrigado pela sua paciência. Agora, você pode usar completamente o BuddyDrive!"
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu/"
+msgstr "http://imathi.eu/"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr "imath"
+
+#. Description of the plugin/theme
+msgid "A plugin to share files, the BuddyPress way!"
+msgstr "Um plugin para compartilhar arquivos, do jeito BuddyPress!"
+
+#. Plugin URI of the plugin/theme
+msgid "http://imathi.eu/tag/buddydrive/"
+msgstr "http://imathi.eu/tag/buddydrive/"
+
+#. Plugin Name of the plugin/theme
+msgid "BuddyDrive"
+msgstr "BuddyDrive"
+
+#: templates/buddydrive-loop.php:62
+msgid "Sorry, there were no %s items found."
+msgstr "Desculpa, nenhum %s item(s) encontrado(s)."
+
+#: templates/buddydrive-loop.php:23 templates/buddydrive-loop.php:55
+msgid "Type"
+msgstr "Tipo"
+
+#: templates/buddydrive-loop.php:23 templates/buddydrive-loop.php:55
+msgid "Privacy"
+msgstr "Privacidade"
+
+#: includes/buddydrive-item-template.php:110
+msgid "Add File"
+msgstr "Adicionar Arquivo"
+
+#: includes/buddydrive-item-template.php:109
+msgid "Add file"
+msgstr "Adicionar arquivo"
+
+#: includes/buddydrive-item-deprecated.php:2664
+#: includes/buddydrive-item-functions.php:88 templates/buddydrive-loop.php:23
+#: templates/buddydrive-loop.php:55
+msgid "Last edit"
+msgstr "Última edição"
+
+#: includes/buddydrive-item-deprecated.php:2661
+msgid "Order by:"
+msgstr "Ordenar por:"
+
+#: includes/buddydrive-item-deprecated.php:2651
+msgid "Delete Item(s)"
+msgstr "Item(s) Deletado(s)"
+
+#: includes/buddydrive-item-deprecated.php:2645
+#: includes/buddydrive-item-functions.php:131
+msgid "New Folder"
+msgstr "Nova Pasta"
+
+#: includes/buddydrive-item-deprecated.php:2642
+#: includes/buddydrive-item-functions.php:126
+msgid "New File"
+msgstr "Novo Arquivo"
+
+#: includes/buddydrive-item-template.php:50
+msgid "Password required"
+msgstr "Senha obrigatória"
+
+#: includes/buddydrive-item-deprecated.php:2613
+#: templates/assets/buddydrive/index.php:111
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/buddydrive-item-deprecated.php:2587
+#: includes/buddydrive-item-deprecated.php:2595
+#: includes/buddydrive-item-deprecated.php:2603
+#: includes/buddydrive-item-deprecated.php:2611
+#: templates/assets/buddydrive/index.php:71
+msgid "Share"
+msgstr "Compartilhar"
+
+#: includes/buddydrive-item-deprecated.php:2583
+#: includes/buddydrive-item-deprecated.php:2591
+#: includes/buddydrive-item-deprecated.php:2599
+#: includes/buddydrive-item-deprecated.php:2607
+msgid "Link"
+msgstr "Link"
+
+#: includes/buddydrive-item-deprecated.php:2345
+msgid "file"
+msgstr "arquivo"
+
+#: includes/buddydrive-item-deprecated.php:2340
+msgid "folder"
+msgstr "pasta"
+
+#: includes/buddydrive-item-deprecated.php:2276
+msgid "Group"
+msgstr "Grupo"
+
+#: includes/buddydrive-item-deprecated.php:2267
+msgid "Friends"
+msgstr "Amigos"
+
+#: includes/buddydrive-item-deprecated.php:2163
+msgid "Group logo of %d"
+msgstr "Logo do Grupo de %d"
+
+#: includes/buddydrive-item-deprecated.php:2065
+msgid "User Avatar of %s"
+msgstr "Avatar do Usuário de %s"
+
+#: includes/buddydrive-item-template.php:39
+msgid "<span id=\"buddy-quota\">%s</span>&#37; used"
+msgstr "<span id=\"buddy-quota\">%s</span>&#37; usado(s)"
+
+#: includes/buddydrive-item-deprecated.php:1647
+msgid "Add folder"
+msgstr "Adicionar pasta"
+
+#: includes/buddydrive-item-deprecated.php:1646
+#: includes/buddydrive-item-functions.php:169
+msgid "Name of your folder"
+msgstr "Nomeie sua pasta"
+
+#: includes/buddydrive-item-deprecated.php:1645
+msgid "Create your folder"
+msgstr "Crie sua pasta"
+
+#: includes/buddydrive-item-deprecated.php:1577
+msgid "No group available for BuddyDrive"
+msgstr "Nenhum grupo disponível para BuddyDrive"
+
+#: includes/buddydrive-item-deprecated.php:1511
+msgid "No folder available"
+msgstr "Nenhuma pasta disponível"
+
+#: includes/buddydrive-item-functions.php:223
+msgid "Manage files"
+msgstr "Gerenciar arquivos"
+
+#: includes/buddydrive-item-functions.php:223
+msgid "Choose or add a file from my profile"
+msgstr "Escolha ou adicione um arquivo do meu perfil"
+
+#: includes/buddydrive-item-deprecated.php:30
+msgid "Define your password"
+msgstr "Defina sua senha"
+
+#: includes/buddydrive-item-deprecated.php:29
+msgid "Please choose a password"
+msgstr "Favor escolher uma senha"
+
+#: includes/buddydrive-item-deprecated.php:28
+msgid "Please choose a group in the list"
+msgstr "Favor escolher um grupo na lista"
+
+#: includes/buddydrive-item-deprecated.php:27
+msgid "The title is required"
+msgstr "Título obrigatório"
+
+#: includes/buddydrive-item-deprecated.php:26
+msgid "Error: Item(s) could not be deleted"
+msgstr "Erro: item(s) não pôde ser deletado"
+
+#: includes/buddydrive-item-deprecated.php:25
+msgid "Are you sure you want to delete %d item(s) ?"
+msgstr "Tem certeza de que quer deletar %d item(s)?"
+
+#: includes/buddydrive-item-deprecated.php:24
+msgid "Please use the checkbox to select one item to edit"
+msgstr "Favor usar a caixa de seleção para selecionar um item para editá-lo"
+
+#: includes/buddydrive-item-deprecated.php:23
+msgid "Please use the checkboxes to select one or more items"
+msgstr "Favor usar as caixas de seleção para selecionar um ou mais itens"
+
+#: includes/buddydrive-item-deprecated.php:22
+msgid "Error: Item could not be removed from current group"
+msgstr "Erro: item não pôde ser removido do grupo"
+
+#: includes/buddydrive-item-deprecated.php:21
+msgid "Shared"
+msgstr "Compartilhado"
+
+#: includes/buddydrive-item-deprecated.php:20
+msgid "loading.."
+msgstr "carregando.."
+
+#: includes/buddydrive-item-deprecated.php:19
+msgid "Please, add only one file at a time"
+msgstr "Por favor, adicione apenas um arquivo por vez"
+
+#: includes/buddydrive-item-filters.php:226
+msgid "Insert"
+msgstr "Inserir"
+
+#: includes/buddydrive-item-deprecated.php:234
+msgid "Maximum upload file size: %d%s."
+msgstr "Tamanho máximo de upload de arquivo: %d%s."
+
+#: includes/buddydrive-item-deprecated.php:228
+msgid "Select your File"
+msgstr "Selecione seu arquivo"
+
+#: includes/buddydrive-item-deprecated.php:227
+msgctxt "Uploader: Drop your file here - or - Select your File"
+msgid "or"
+msgstr "ou"
+
+#: includes/buddydrive-item-deprecated.php:226
+msgid "Drop your file here"
+msgstr "Solte seu arquivo aqui"
+
+#: includes/buddydrive-item-deprecated.php:220
+msgid "Upload your file!"
+msgstr "Envie seu arquivo!"
+
+#: includes/buddydrive-item-deprecated.php:201
+msgid "Allowed Files"
+msgstr "Arquivos Permitidos"
+
+#: includes/buddydrive-item-deprecated.php:167
+#: includes/buddydrive-item-deprecated.php:1638
+msgid "Define your sharing options"
+msgstr "Defina suas opções de copartilhamento"
+
+#: includes/buddydrive-item-deprecated.php:152
+#: includes/buddydrive-item-deprecated.php:160
+#: includes/buddydrive-item-deprecated.php:173
+#: includes/buddydrive-item-deprecated.php:1642
+msgid "Next Step"
+msgstr "Próximo Passo"
+
+#: includes/buddydrive-item-deprecated.php:150
+msgid "Describe your file"
+msgstr "Descreva seu arquivo"
+
+#: includes/buddydrive-item-deprecated.php:115
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "O navegador do seu dispositivo não pode ser usado para enviar arquivos. Em vez disso, você pode usar <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a>."
+
+#: includes/buddydrive-item-deprecated.php:91
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; falhou ao ser enviado."
+
+#: includes/buddydrive-item-deprecated.php:90
+msgid "moved to the trash."
+msgstr "movido para o lixo."
+
+#: includes/buddydrive-item-deprecated.php:89
+msgid "Crunching&hellip;"
+msgstr "Processando&hellip;"
+
+#: includes/buddydrive-item-deprecated.php:87
+msgid "Upload stopped."
+msgstr "Envio interrompido."
+
+#: includes/buddydrive-item-deprecated.php:86
+msgid "File canceled."
+msgstr "Arquivo cancelado."
+
+#: includes/buddydrive-item-deprecated.php:85
+msgid "Security error."
+msgstr "Erro de segurança."
+
+#: includes/buddydrive-item-deprecated.php:84
+msgid "IO error."
+msgstr "Erro IO."
+
+#: includes/buddydrive-item-deprecated.php:83
+msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
+msgstr "%s excede o tamanho máximo de envio para o uploader de multi-arquivos quando usado no seu navegador."
+
+#: includes/buddydrive-item-deprecated.php:82
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr "Por favor, tente enviar esse arquivo com o %1$sbrowser uploader%2$s."
+
+#: includes/buddydrive-item-deprecated.php:81
+msgid "Upload failed."
+msgstr "Falha no envio."
+
+#: includes/buddydrive-item-deprecated.php:80
+msgid "HTTP error."
+msgstr "Erro HTTP."
+
+#: includes/buddydrive-item-deprecated.php:79
+msgid "You may only upload 1 file."
+msgstr "Você pode enviar apenas 1 arquivo."
+
+#: includes/buddydrive-item-deprecated.php:78
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Houve um erro de configuração. Favor contatar o administrador do servidor."
+
+#: includes/buddydrive-item-deprecated.php:77
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Ocorreu um erro durante o envio. Por favor, tente novamente mais tarde."
+
+#: includes/buddydrive-item-deprecated.php:76
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Este é maior do que o tamanha máximo. Por favor, tente outro."
+
+#: includes/buddydrive-item-deprecated.php:75
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Memória excedida. Por favor, tente um arquivo menor."
+
+#: includes/buddydrive-item-deprecated.php:74
+msgid "This file is not an image. Please try another."
+msgstr "Este arquivo não é uma imagem. Por favor, tente outro."
+
+#: includes/buddydrive-item-deprecated.php:73
+msgid "This file type is not allowed. Please try another."
+msgstr "Este arquivo não é permitido. Por favor, tente outro."
+
+#: includes/buddydrive-item-deprecated.php:72
+msgid "This file is empty. Please try another."
+msgstr "O arquivo está vazio. Por favor, tente outro."
+
+#: includes/buddydrive-item-deprecated.php:71
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s excede o tamanho máximo de envio para este site."
+
+#: includes/buddydrive-item-deprecated.php:70
+msgid "You have attempted to queue too many files."
+msgstr "Você tentou enfileirar muitos arquivos."
+
+#: includes/buddydrive-item-deprecated.php:1146
+msgid "%1$s shared a %2$s Item"
+msgstr "%1$s compartilhou um %2$s Item"
+
+#: includes/buddydrive-item-deprecated.php:1142
+msgid "We could not find your BuddyDrive item or its privacy is not set to public"
+msgstr "Não pudemos encontrar seu item do BuddyDrive ou a privacidade dele não está configurada como pública"
+
+#: includes/buddydrive-item-deprecated.php:1072
+msgid "%1$s shared a %2$s Item in the group %3$s"
+msgstr "%1$s compartilhou um %2$s item no grupo %3$s"
+
+#: includes/buddydrive-item-deprecated.php:1046
+#: includes/buddydrive-item-deprecated.php:1093
+#: includes/buddydrive-item-deprecated.php:1127
+#: includes/buddydrive-item-deprecated.php:1163
+msgid "this is embarassing, it did not work :("
+msgstr "que vergonha, isso não funcionou :("
+
+#: includes/buddydrive-item-deprecated.php:922
+#: includes/buddydrive-item-deprecated.php:2648
+msgid "Edit Item"
+msgstr "Editar Item"
+
+#: includes/buddydrive-item-deprecated.php:908
+msgid "Privacy of this item rely on its parent folder"
+msgstr "Privacidade deste item depende da pasta mãe"
+
+#: includes/buddydrive-item-deprecated.php:907
+msgid "Edit your sharing options"
+msgstr "Editar suas opções de compartilhamento"
+
+#: includes/buddydrive-item-deprecated.php:710
+msgid "Sorry, this folder is private"
+msgstr "Desculpa, esta pasta é privada"
+
+#: includes/buddydrive-item-deprecated.php:664
+msgid "Sorry, this folder does not exist anymore."
+msgstr "Desculpa, esta pasta não existe mais."
+
+#: includes/buddydrive-item-ajax.php:95
+msgid "Error while creating the file, sorry."
+msgstr "Erro ao criar o arquivo, desculpa."
+
+#: includes/buddydrive-item-deprecated.php:529
+msgid "&#8220;%s&#8221; has failed to upload due to an error : %s"
+msgstr "&#8220;%s&#8221; falhou ao ser enviado devido a um erro: %s"
+
+#: includes/buddydrive-item-deprecated.php:88
+#: includes/buddydrive-item-deprecated.php:529
+msgid "Dismiss"
+msgstr "Recusar"
+
+#: includes/buddydrive-item-deprecated.php:420
+msgid "Password : %s"
+msgstr "Senha : %s"
+
+#: includes/buddydrive-item-deprecated.php:364
+msgid "Automatically add the password in the message"
+msgstr "Adicionar senha automaticamente à mensagem"
+
+#: includes/buddydrive-item-deprecated.php:359
+msgid "%s attached : %s"
+msgstr "%s anexado: %s"
+
+#: includes/buddydrive-item-deprecated.php:335
+msgid "Cheating ?"
+msgstr "Trapaceando?"
+
+#: includes/buddydrive-item-actions.php:150
+msgid "OOps, we could not find your folder."
+msgstr "Ops, não pudemos achar sua pasta."
+
+#: includes/buddydrive-item-functions.php:1443
+msgid "You must be a member of the group to download the file"
+msgstr "Você deve ser um membro do grupo para baixar o arquivo"
+
+#: includes/buddydrive-item-deprecated.php:1051
+#: includes/buddydrive-item-functions.php:1416
+msgid "Group component is deactivated, please contact the administrator."
+msgstr "Componente do grupo desativado. Favor contatar o administrador."
+
+#: includes/buddydrive-item-functions.php:1402
+msgid "You must be a friend of this member to download the file"
+msgstr "Você deve ser amigo(a) deste membro para baixar o arquivo"
+
+#: includes/buddydrive-item-functions.php:1393
+msgid "Wrong password"
+msgstr "Senha incorreta"
+
+#: includes/buddydrive-item-functions.php:1387
+msgid "This file is password protected"
+msgstr "Este arquivo é protegido por senha"
+
+#: includes/buddydrive-item-actions.php:84
+msgid "OOps, we could not find your file."
+msgstr "Ops, não pudemos achar seu arquivo."
+
+#: includes/buddydrive-item-deprecated.php:1301
+#: includes/buddydrive-item-deprecated.php:1344
+#: includes/buddydrive-item-deprecated.php:1361
+#: includes/buddydrive-item-deprecated.php:1524
+msgid "Root folder"
+msgstr "Pasta raiz"
+
+#: includes/buddydrive-group-class.php:151
+msgid "Settings saved successfully"
+msgstr "Configurações salvas com sucesso"
+
+#: includes/buddydrive-group-class.php:149
+msgid "There was an error saving, please try again"
+msgstr "Houve um erro ao salvar. Por favor, tente novamente"
+
+#: includes/buddydrive-group-class.php:102
+msgid "Save"
+msgstr "Salvar"
+
+#: includes/buddydrive-group-class.php:97
+msgid "Activate %s"
+msgstr "Ativar %s"
+
+#: includes/buddydrive-group-class.php:93
+msgid "Allow members of this group to share their folders or files."
+msgstr "Permitir que membros deste grupo compartilhem suas pastas ou arquivos."
+
+#: includes/buddydrive-group-class.php:89
+#: includes/buddydrive-group-class.php:92
+msgid "settings"
+msgstr "configurações"
+
+#: includes/buddydrive-functions.php:605
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr "Você usou sua quota de espaço. Por favor, delete arquivos antes de enviar."
+
+#: includes/buddydrive-functions.php:604
+msgid "This file is too big. Files must be less than %s MB in size."
+msgstr "Este arquivo é muito grande. Os arquivos devem ter um tamanho menor que %s MB."
+
+#: includes/buddydrive-functions.php:603
+msgid "Not enough space left to upload your file"
+msgstr "Espaço insuficiente para enviar seu arquivo"
+
+#: includes/buddydrive-functions.php:343
+msgid "BuddyDrive uses this page to manage the downloads of your buddies files, please leave it as is. It will not show in your navigation bar."
+msgstr "BuddyDrive usa esta página para gerenciar os downloads de seus arquivos, por favor, deixa-a assim. Sua barra de navegação não aparecerá."
+
+#: includes/buddydrive-component.php:306
+msgid "No BuddyFolders Found in Trash"
+msgstr "Nenhuma BuddyFolders Encontrada no Lixo"
+
+#: includes/buddydrive-component.php:305
+msgid "No BuddyFolders Found"
+msgstr "Nenhuma BuddyFolders Encontrada"
+
+#: includes/buddydrive-component.php:304
+msgid "Search BuddyFolders"
+msgstr "Pesquisar BuddyFolders"
+
+#: includes/buddydrive-component.php:303
+msgid "View BuddyFolder"
+msgstr "Ver BuddyFolder"
+
+#: includes/buddydrive-component.php:302
+msgid "New BuddyFolder"
+msgstr "Nova BuddyFolder"
+
+#: includes/buddydrive-component.php:301
+msgid "Edit BuddyFolder"
+msgstr "Editar BuddyFolder"
+
+#: includes/buddydrive-component.php:299 includes/buddydrive-component.php:300
+msgid "Add New BuddyFolder"
+msgstr "Adicionar Nova BuddyFolder"
+
+#: includes/buddydrive-component.php:297
+msgid "All BuddyFolders"
+msgstr "Todas BuddyFolders"
+
+#: includes/buddydrive-component.php:295 includes/buddydrive-component.php:298
+#: includes/buddydrive-component.php:310
+msgid "BuddyFolder"
+msgstr "BuddyFolder"
+
+#: includes/buddydrive-component.php:294
+msgid "BuddyFolders"
+msgstr "BuddyFolders"
+
+#: includes/buddydrive-component.php:277
+msgid "No BuddyFiles Found in Trash"
+msgstr "Nenhum BuddyFiles Encontrado no Lixo"
+
+#: includes/buddydrive-component.php:276
+msgid "No BuddyFiles Found"
+msgstr "Nenhum BuddyFiles Encontrado"
+
+#: includes/buddydrive-component.php:275
+msgid "Search BuddyFiles"
+msgstr "Pesquisar BuddyFiles"
+
+#: includes/buddydrive-component.php:274
+msgid "View BuddyFile"
+msgstr "Ver BuddyFile"
+
+#: includes/buddydrive-component.php:273
+msgid "New BuddyFile"
+msgstr "Novo BuddyFile"
+
+#: includes/buddydrive-component.php:272
+msgid "Edit BuddyFile"
+msgstr "Editar BuddyFile"
+
+#: includes/buddydrive-component.php:270 includes/buddydrive-component.php:271
+msgid "Add New BuddyFile"
+msgstr "Adicionar Novo BuddyFile"
+
+#: includes/buddydrive-component.php:268
+msgid "All BuddyFiles"
+msgstr "Todos os BuddyFiles"
+
+#: includes/buddydrive-component.php:266 includes/buddydrive-component.php:269
+#: includes/buddydrive-component.php:281
+msgid "BuddyFile"
+msgstr "BuddyFile"
+
+#: includes/buddydrive-component.php:265
+msgid "BuddyFiles"
+msgstr "BuddyFiles"
+
+#: includes/buddydrive-component.php:140
+msgid "%s <span class=\"count\">%d</span>"
+msgstr "%s <span class=\"count\">%d</span>"
+
+#: includes/buddydrive-component.php:112
+msgid "Search files..."
+msgstr "Procurar arquivos..."
+
+#: includes/buddydrive-component.php:110
+msgid "%s download page"
+msgstr "%s baixar página"
+
+#: includes/admin/buddydrive-settings.php:554
+msgid "Settings saved"
+msgstr "Configurações salvas"
+
+#: includes/admin/buddydrive-settings.php:481
+msgid "BuddyDrive Settings"
+msgstr "Configurações BuddyDrive"
+
+#: includes/admin/buddydrive-settings.php:266
+msgid "Select / Unselect all"
+msgstr "Selecionar / Deselecionar todos"
+
+#: includes/admin/buddydrive-settings.php:142
+msgid "Customize your Buddydrive!"
+msgstr "Customize seu BuddyDrive!"
+
+#: includes/admin/buddydrive-settings.php:89
+msgid "Name for main subnav"
+msgstr "Nome para a subnav principal"
+
+#: includes/admin/buddydrive-settings.php:76
+msgid "Enable BuddyDrive for groups on group creation"
+msgstr "Habilitar BuddyDrive para grupos na criação de grupo"
+
+#: includes/admin/buddydrive-settings.php:60
+msgid "Max upload size"
+msgstr "Tamanho máx. de envio"
+
+#: includes/admin/buddydrive-settings.php:52
+msgid "Space available for each user"
+msgstr "Espaço disponível para cada usuário"
+
+#: includes/admin/buddydrive-settings.php:18
+msgid "Main Settings"
+msgstr "Configurações Principais"
+
+#: includes/admin/buddydrive-items.php:1007
+msgid "Friends only"
+msgstr "Apenas Amigos"
+
+#: includes/admin/buddydrive-items.php:1003
+#: includes/buddydrive-item-deprecated.php:2264
+msgid "Public"
+msgstr "Público"
+
+#: includes/admin/buddydrive-items.php:999
+#: includes/buddydrive-item-deprecated.php:2270
+msgid "Password protected"
+msgstr "Protegido por senha"
+
+#: includes/admin/buddydrive-items.php:995
+#: includes/buddydrive-item-deprecated.php:2261
+msgid "Private"
+msgstr "Privado"
+
+#: includes/admin/buddydrive-items.php:951
+msgid "Download"
+msgstr "Baixar"
+
+#: includes/admin/buddydrive-items.php:889
+msgctxt "BuddyDrive admin Last Edit column header"
+msgid "Last Edit"
+msgstr "Última Edição"
+
+#: includes/admin/buddydrive-items.php:888
+msgctxt "BuddyDrive admin Mime type column header"
+msgid "Mime type"
+msgstr "Tipo Mime"
+
+#: includes/admin/buddydrive-items.php:887
+msgctxt "BuddyDrive admin Owner column header"
+msgid "Owner"
+msgstr "Dono(a)"
+
+#: includes/admin/buddydrive-items.php:886
+msgctxt "BuddyDrive admin Privacy Status column header"
+msgid "Privacy"
+msgstr "Privacidade"
+
+#: includes/admin/buddydrive-items.php:885
+msgctxt "BuddyDrive admin Item Description column header"
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/admin/buddydrive-items.php:884
+msgctxt "BuddyDrive admin Item Name column header"
+msgid "Name"
+msgstr "Nome"
+
+#: includes/admin/buddydrive-items.php:856
+msgid "Folders"
+msgstr "Pastas"
+
+#: includes/admin/buddydrive-items.php:855
+msgid "Files"
+msgstr "Arquivos"
+
+#: includes/admin/buddydrive-items.php:854
+#: includes/buddydrive-item-functions.php:107
+msgid "All"
+msgstr "Todos"
+
+#: includes/admin/buddydrive-items.php:775
+#: includes/buddydrive-item-ajax.php:251
+msgid "No items found."
+msgstr "Nenhum item encontrado."
+
+#: includes/admin/buddydrive-items.php:608
+#: includes/buddydrive-item-deprecated.php:235
+#: includes/buddydrive-item-deprecated.php:922
+#: includes/buddydrive-item-deprecated.php:1647
+#: templates/assets/buddydrive/index.php:151
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/admin/buddydrive-items.php:607
+msgid "Delete Permanently"
+msgstr "Excluir Permanentemente"
+
+#: includes/admin/buddydrive-items.php:605
+msgid "This action cannot be undone."
+msgstr "Essa ação não pode ser desfeita."
+
+#: includes/admin/buddydrive-items.php:599
+msgid "(and all the files of this folder)"
+msgstr "(e todos os arquivos desta pasta)"
+
+#: includes/admin/buddydrive-items.php:592
+msgid "You are about to delete the following items:"
+msgstr "Você irá deletar os seguintes itens:"
+
+#: includes/admin/buddydrive-items.php:591
+msgid "Delete Items"
+msgstr "Deletar Itens"
+
+#: includes/admin/buddydrive-items.php:550
+msgid "The item displayed is a file, the list of files is only available for a folder"
+msgstr "O item mostrado é um arquivo, a lista de arquivos está disponível somente para pastas"
+
+#: includes/admin/buddydrive-items.php:541
+msgid "Last Edit"
+msgstr "Última Edição"
+
+#: includes/admin/buddydrive-items.php:541
+msgid "Mime type"
+msgstr "Mime type"
+
+#: includes/admin/buddydrive-items.php:534
+#: includes/buddydrive-item-functions.php:136
+msgid "Bulk Actions"
+msgstr "Ações em massa"
+
+#: includes/admin/buddydrive-items.php:514
+msgid "No files attached to this folder"
+msgstr "Nenhum arquivo anexado a esta pasta"
+
+#: includes/admin/buddydrive-items.php:508
+#: includes/buddydrive-item-functions.php:108 templates/buddydrive-loop.php:38
+msgid "Load More"
+msgstr "Carregar Mais"
+
+#: includes/admin/buddydrive-items.php:491
+#: includes/admin/buddydrive-items.php:535
+#: includes/admin/buddydrive-items.php:870
+#: includes/admin/buddydrive-items.php:957
+msgid "Delete"
+msgstr "Deletar"
+
+#: includes/admin/buddydrive-items.php:488
+#: includes/admin/buddydrive-items.php:954
+#: templates/assets/buddydrive/index.php:65
+#: templates/assets/buddydrive/index.php:151
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/admin/buddydrive-items.php:449
+#: includes/buddydrive-item-deprecated.php:916
+msgid "Folder"
+msgstr "Pasta"
+
+#: includes/admin/buddydrive-items.php:441
+msgid "Privacy of this item rely on its parent <a href=\"%s\">folder</a>"
+msgstr "Privacidade deste item de acordo com sua <a href=\"%s\">pasta mãe</a>"
+
+#: includes/admin/buddydrive-items.php:434
+msgid "The privacy of this item is not defined, please correct this!"
+msgstr "A privacidade deste item não está definida, favor corrigir isso!"
+
+#: includes/admin/buddydrive-items.php:427
+#: includes/buddydrive-item-deprecated.php:32
+#: includes/buddydrive-item-deprecated.php:898
+msgid "Choose the group"
+msgstr "Escolha o grupo"
+
+#: includes/admin/buddydrive-items.php:424
+#: includes/buddydrive-item-deprecated.php:31
+#: includes/buddydrive-item-deprecated.php:895
+msgid "Password"
+msgstr "Senha"
+
+#: includes/admin/buddydrive-items.php:419
+#: includes/admin/buddydrive-items.php:440
+#: includes/buddydrive-item-deprecated.php:890
+msgid "Item Sharing options"
+msgstr "Opções de Compartilhamento de Item"
+
+#: includes/admin/buddydrive-items.php:405
+#: includes/buddydrive-item-deprecated.php:2209
+#: includes/buddydrive-item-deprecated.php:2241
+#: templates/assets/buddydrive/index.php:118
+msgid "Owner"
+msgstr "Proprietário "
+
+#: includes/admin/buddydrive-items.php:376
+#: includes/admin/buddydrive-settings.php:493
+msgid "Save Changes"
+msgstr "Salvar mudanças"
+
+#: includes/admin/buddydrive-items.php:372
+msgid "Delete Item"
+msgstr "Deletar Item"
+
+#: includes/admin/buddydrive-items.php:347
+msgid "No item found with this ID. <a href=\"%s\">Go back and try again</a>."
+msgstr "Nenhum item encontrado com essa ID. <a href=\"%s\">Volte e tente novamente</a>."
+
+#: includes/admin/buddydrive-items.php:321
+#: includes/buddydrive-item-deprecated.php:151
+msgid "140 characters to do so"
+msgstr "140 caracteres para fazê-lo"
+
+#: includes/admin/buddydrive-items.php:320
+#: includes/buddydrive-item-deprecated.php:876
+#: includes/buddydrive-item-deprecated.php:2573
+#: templates/assets/buddydrive/index.php:126
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/admin/buddydrive-items.php:316
+#: includes/admin/buddydrive-items.php:541
+#: includes/buddydrive-item-deprecated.php:872
+#: includes/buddydrive-item-deprecated.php:2663
+#: includes/buddydrive-item-functions.php:92
+#: templates/assets/buddydrive/index.php:123 templates/buddydrive-loop.php:23
+#: templates/buddydrive-loop.php:55
+msgid "Name"
+msgstr "Nome"
+
+#: includes/admin/buddydrive-items.php:314
+msgid "Name and Description"
+msgstr "Nome e Descrição"
+
+#: includes/admin/buddydrive-items.php:299
+msgid "Edit BuddyDrive Item"
+msgstr "Editar Item BuddyDrive"
+
+#: includes/admin/buddydrive-items.php:281
+msgid "The item has been updated successfully."
+msgstr "Item atualizado com sucesso."
+
+#: includes/admin/buddydrive-items.php:279
+msgid "An error occurred when trying to update your item details."
+msgstr "Ocorreu um erro ao tentar atualizar os detalhes de seu item."
+
+#: includes/admin/buddydrive-items.php:243
+msgid "Search all Items"
+msgstr "Pesquisar todos os itens"
+
+#: includes/admin/buddydrive-items.php:230
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultados da busca por &#8220;%s&#8221;"
+
+#: includes/admin/buddydrive-items.php:227
+#: includes/admin/buddydrive-settings.php:316
+#: includes/buddydrive-component.php:267 includes/buddydrive-functions.php:134
+msgid "BuddyDrive Files"
+msgstr "Arquivos BuddyDrive"
+
+#: includes/admin/buddydrive-items.php:214
+msgid "%s item has been permanently deleted."
+msgid_plural "%s items have been permanently deleted."
+msgstr[0] "%s item foi deletado permanentemente."
+msgstr[1] "%s itens foram deletados permanentemente."
+
+#: includes/admin/buddydrive-items.php:97
+msgctxt "buddydrive-item admin edit screen"
+msgid "Files"
+msgstr "Arquivos"
+
+#: includes/admin/buddydrive-items.php:96
+msgctxt "buddydrive-item admin edit screen"
+msgid "Privacy"
+msgstr "Privacidade"
+
+#: includes/admin/buddydrive-items.php:95
+msgctxt "buddydrive-item admin edit screen"
+msgid "Save"
+msgstr "Salvar"
+
+#: includes/admin/buddydrive-items.php:91
+msgid "The Name and Description box is fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to hide or unhide, or to choose a 1- or 2-column layout for this screen."
+msgstr "As caixas Nome e Descrição são fixas no lugar, mas você pode reposicionar todas as outras caixas usando arrastar e soltar ou minimizá-las/expandi-las clicando na barra de título de cada caixa. Use a aba Opções de Tela para esconder ou mostrar caixas o ainda escolher um layout de 1 ou 2 colunas para esta tela."
+
+#: includes/admin/buddydrive-items.php:90
+msgid "This page is a convenient way to edit the details associated with one of your file or folder."
+msgstr "Esta página é um jeito conveniente de editar os detalhes associados com um de seus arquivos ou pastas."
+
+#: includes/admin/buddydrive-items.php:88
+msgid "Overview"
+msgstr "Visão geral"
+
+#: includes/admin/buddydrive-admin.php:713
+#: includes/admin/buddydrive-items.php:409
+msgid "BuddyDrive Usage"
+msgstr "Uso do BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:613
+#: includes/admin/buddydrive-settings.php:211
+#: includes/admin/buddydrive-settings.php:249
+msgid "MO"
+msgstr "MO"
+
+#: includes/admin/buddydrive-admin.php:610
+msgid "Space available"
+msgstr "Espaço disponível"
+
+#: includes/admin/buddydrive-admin.php:605
+msgid "User&#39;s BuddyDrive quota"
+msgstr "Quota BuddyDrive deUser&#39;s"
+
+#: includes/admin/buddydrive-admin.php:567
+msgid "Go to the BuddyDrive Settings page"
+msgstr "Vá para a página de Configurações BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:567
+msgid "Configure BuddyDrive"
+msgstr "Configurar BuddyDrive"
+
+#: includes/buddydrive-component.php:296
+msgid "BuddyDrive Folders"
+msgstr "Pastas BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:754
+msgid "BuddyDrive Upgrade"
+msgstr "Atualização BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:548
+msgid "The other improvements in %s"
+msgstr "As outras melhorias em %s"
+
+#: includes/admin/buddydrive-admin.php:504
+msgid "The BuddyDrive Editor"
+msgstr "O Editor BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:491
+msgid "Thank you for upgrading to the latest version of BuddyDrive! BuddyDrive %s is ready to manage the files and folders of your buddies!"
+msgstr "Obrigado por atualizar a última versão do BoddyDrive! BuddyDrive %s está pronto para gerenciar os arquivos e pastas de seus amigos!"
+
+#: includes/admin/buddydrive-admin.php:490
+msgid "BuddyDrive %s"
+msgstr "BuddyDrive %s"
+
+#: includes/admin/buddydrive-admin.php:474
+#: includes/admin/buddydrive-admin.php:496
+msgid "About"
+msgstr "Sobre"
+
+#: includes/admin/buddydrive-admin.php:473
+msgid "Settings"
+msgstr "Configura&ccedil;&otilde;es"
+
+#: includes/admin/buddydrive-admin.php:352
+msgid "The main BuddyDrive directory is missing"
+msgstr "O diretório principal do BuddyDrive está em falta"
+
+#: includes/admin/buddydrive-admin.php:212
+#: includes/admin/buddydrive-admin.php:213
+msgid "Welcome to BuddyDrive"
+msgstr "Bem-vindo(a) ao BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:201
+msgctxt "BuddyDrive User Files Admin menu title"
+msgid "BuddyDrive"
+msgstr "BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:200
+msgctxt "BuddyDrive User Files Admin page title"
+msgid "BuddyDrive"
+msgstr "BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:193
+msgctxt "BuddyDrive Settings menu title"
+msgid "BuddyDrive"
+msgstr "BuddyDrive"
+
+#: includes/admin/buddydrive-admin.php:192
+msgctxt "BuddyDrive Settings page title"
+msgid "BuddyDrive"
+msgstr "BuddyDrive"
+
+#: buddydrive.php:357
+msgid "Once done try to activate BuddyDrive again."
+msgstr "Quando pronto, tente ativar o BuddyDrive novamente."
+
+#: buddydrive.php:350
+msgid "You should %s BuddyDrive"
+msgstr "Você deveria %s BuddyDrive"
+
+#: buddydrive.php:349
+msgid "deactivate"
+msgstr "desativar"
+
+#: buddydrive.php:342
+msgid "Make sure BuddyDrive is activated at the same level than BuddyPress on the network"
+msgstr "Certifique-se de que o BuddyDrive está ativado no mesmo nível que o BuddyPress na rede"
+
+#: buddydrive.php:341
+msgid "BuddyDrive and BuddyPress need to share the same network configuration."
+msgstr "BuddyDrive e BuddyPress precisam compartilhar as mesmas configurações de rede."
+
+#: buddydrive.php:337
+msgid "Activate BuddyDrive on the same blog than BuddyPress"
+msgstr "Ativar BuddyDrive no mesmo blog que BuddyPress"
+
+#: buddydrive.php:336
+msgid "BuddyDrive requires to be activated on the blog where BuddyPress is activated."
+msgstr "BuddyDrive precisa ser ativado no blog onde o BuddyPress está ativado."
+
+#: buddydrive.php:326
+msgid "Upgrade BuddyPress to at least version %s"
+msgstr "Atualizar BuddyPress ao menos até a versão %s"
+
+#: buddydrive.php:325
+msgid "BuddyDrive requires at least version %s of BuddyPress."
+msgstr "BuddyDrive requere a última versão %s do BuddyPress."
+
+#: buddydrive.php:78 buddydrive.php:80
+msgid "Cheatin&#8217; huh?"
+msgstr "Trapaceando&#8217; hein?"
